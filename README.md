@@ -1,1 +1,1 @@
-# Nebula
+# A Basic Timer in Javascript
