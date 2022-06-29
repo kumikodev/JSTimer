@@ -1,1 +1,3 @@
-# A Basic Timer in Javascript
+# JSTimer
+
+A Basic Timer in Javascript
